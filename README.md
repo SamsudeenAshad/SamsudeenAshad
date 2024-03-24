@@ -1,3 +1,20 @@
+<div align="center">
+  <h1>Welcome to SimShad's Code Quest! 🎮</h1>
+  <p>Join me on an epic adventure through the realms of code and creativity! Are you ready to embark on a journey of discovery?</p>
+  <div style="position: relative; width: 100%; height: auto; overflow: hidden;">
+    <img src="https://raw.githubusercontent.com/SimShad/SimShad/main/assets/banner_frame1.png" alt="Banner" width="100%" style="position: absolute; top: 0; left: 0; opacity: 1; animation: fadeInOut 4s infinite;">
+    <img src="https://raw.githubusercontent.com/SimShad/SimShad/main/assets/banner_frame2.png" alt="Banner" width="100%" style="position: absolute; top: 0; left: 0; opacity: 0; animation: fadeInOut 4s infinite;">
+  </div>
+  <p align="center">Select your character and let the quest begin!</p>
+</div>
+
+<style>
+  @keyframes fadeInOut {
+    0% { opacity: 0; }
+    50% { opacity: 1; }
+    100% { opacity: 0; }
+  }
+</style>
 - 👋 Hi, I’m @SimShad
 - 👀 I’m interested in turning caffeine into code ☕️, exploring the digital wilderness 🌍, and sprinkling a little bit of magic into my projects ✨.
 - 🌱 I’m currently learning the ancient art of quantum computing and honing my skills in virtual reality development.
