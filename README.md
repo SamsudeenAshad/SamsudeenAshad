@@ -1,3 +1,27 @@
+<div align="center">
+  <h1>Welcome to SimShad's Code Quest! 🎮</h1>
+  <p>Join me on an epic adventure through the realms of code and creativity! Are you ready to embark on a journey of discovery?</p>
+  <div class="animated-banner">
+    <img src="https://raw.githubusercontent.com/SimShad/SimShad/main/assets/banner_frame1.png" alt="Banner" width="100%">
+    <img src="https://raw.githubusercontent.com/SimShad/SimShad/main/assets/banner_frame2.png" alt="Banner" width="100%" style="display:none;">
+  </div>
+  <p align="center">Select your character and let the quest begin!</p>
+</div>
+
+<style>
+  @keyframes animateBanner {
+    0% { opacity: 0; }
+    50% { opacity: 1; }
+    100% { opacity: 0; }
+  }
+
+  .animated-banner img {
+    position: absolute;
+    animation: animateBanner 4s infinite;
+  }
+</style>
+>
+
 - 👋 Hi, I’m @SimShad
 - 👀 I’m interested in turning caffeine into code ☕️, exploring the digital wilderness 🌍, and sprinkling a little bit of magic into my projects ✨.
 - 🌱 I’m currently learning the ancient art of quantum computing and honing my skills in virtual reality development.
@@ -61,6 +85,21 @@ Welcome to my little corner of GitHub! 🚀 I'm all about turning caffeine into 
 <div align="center">
   <p>Thank you for joining the adventure! May your code be legendary and your quests epic! 🌟</p>
 </div>
+
+
+.banner {
+  width: 100%;
+  height: auto;
+  animation: animateBanner 2s infinite;
+}
+
+@keyframes animateBanner {
+  0% { opacity: 0; }
+  25% { opacity: 1; }
+  75% { opacity: 1; }
+  100% { opacity: 0; }
+}
+
 
 <!---
 - 👋 Hi, I’m @SimShad
