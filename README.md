@@ -5,6 +5,9 @@
   <p>Join me on an epic adventure through the realms of code and creativity! Are you ready to embark on a journey of discovery?</p>
   <img src="https://raw.githubusercontent.com/SimShad/SimShad/main/assets/banner_game.gif" alt="Banner" width="100%">
   
+  <p align="center">Select your character and let the quest begin!</p>
+</div>
+
 - 👋 Hi, I’m @SimShad
 - 👀 I’m interested in turning caffeine into code ☕️, exploring the digital wilderness 🌍, and sprinkling a little bit of magic into my projects ✨.
 - 🌱 I’m currently learning the ancient art of quantum computing and honing my skills in virtual reality development.
@@ -12,9 +15,6 @@
 - 📫 How to reach me: Drop me a message in a bottle 🍾 at simshad@example.com, or ride the cyber waves 🏄‍♂️ to [my LinkedIn](https://www.linkedin.com/in/simshad).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once sailed across the Pacific Ocean solo! But shhh, it's a secret 🤫.
-  
-  <p align="center">Select your character and let the quest begin!</p>
-</div>
 
 ## 🎮 Select Your Character
 
