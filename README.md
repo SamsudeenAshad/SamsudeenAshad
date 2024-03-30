@@ -19,9 +19,9 @@
 ## 🎮 Select Your Character
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SimShad/SimShad/main/assets/wizard.png" alt="Wizard" width="100" height="100">
-  <img src="https://raw.githubusercontent.com/SimShad/SimShad/main/assets/rogue.png" alt="Rogue" width="100" height="100">
-  <img src="https://raw.githubusercontent.com/SimShad/SimShad/main/assets/warrior.png" alt="Warrior" width="100" height="100">
+  <img src="Wizard.jpg" alt="Wizard" width="100" height="100">
+  <img src="Rogue.jpg" alt="Rogue" width="100" height="100">
+  <img src="Warrior.jpg" alt="Warrior" width="100" height="100">
 </div>
 
 ## 🚀 Your Quest Awaits!
@@ -33,7 +33,7 @@
 ## 🔧 Power-Up Your Arsenal
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SimShad/SimShad/main/assets/sword.png" alt="Sword" width="100" height="100">
+  <img src="Sword.jpg" alt="Sword" width="100" height="100">
   <img src="Potion.jpg" alt="Potion" width="100" height="100">
   <img src="https://raw.githubusercontent.com/SimShad/SimShad/main/assets/shield.png" alt="Shield" width="100" height="100">
 </div>
