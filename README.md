@@ -16,28 +16,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once sailed across the Pacific Ocean solo! But shhh, it's a secret 🤫.
 
-## 🎮 Select Your Character
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SimShad/SimShad/main/assets/wizard.png" alt="Wizard" width="100" height="100">
-  <img src="https://raw.githubusercontent.com/SimShad/SimShad/main/assets/rogue.png" alt="Rogue" width="100" height="100">
-  <img src="https://raw.githubusercontent.com/SimShad/SimShad/main/assets/warrior.png" alt="Warrior" width="100" height="100">
-</div>
-
-## 🚀 Your Quest Awaits!
-
-- 🧙 [The Wizard's Tower](https://github.com/SimShad/WizardsTower): Navigate through arcane algorithms and solve mystical puzzles to reach the top of the tower.
-- 🗡️ [Rogue's Gallery](https://github.com/SimShad/RoguesGallery): Sneak through the shadows and outwit your adversaries in this stealthy adventure.
-- ⚔️ [Warrior's Odyssey](https://github.com/SimShad/WarriorsOdyssey): Brave the perils of the battlefield and emerge victorious in this epic journey.
-
-## 🔧 Power-Up Your Arsenal
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SimShad/SimShad/main/assets/sword.png" alt="Sword" width="100" height="100">
-  <img src="https://raw.githubusercontent.com/SimShad/SimShad/main/assets/potion.png" alt="Potion" width="100" height="100">
-  <img src="https://raw.githubusercontent.com/SimShad/SimShad/main/assets/shield.png" alt="Shield" width="100" height="100">
-</div>
-
 ## 🌟 About Me
 
 Welcome to my little corner of GitHub! 🚀 I'm all about turning caffeine into code ☕️, exploring the digital wilderness 🌍, and sprinkling a little bit of magic into my projects ✨.
