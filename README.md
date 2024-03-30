@@ -1,4 +1,4 @@
-<body backgroung="src="Wizard.jpg"">
+<div style="background-image: url('word.jpg'); background-size: cover; padding: 50px;">
 
 <div align="center">
   <h1>Welcome to SimShad's Code Quest! 🎮</h1>
@@ -64,7 +64,7 @@ Welcome to my little corner of GitHub! 🚀 I'm all about turning caffeine into 
 <div align="center">
   <p>Thank you for joining the adventure! May your code be legendary and your quests epic! 🌟</p>
 </div>
-</body></body>
+</div>
 <!---
 - 👋 Hi, I’m @SimShad
 - 👀 I’m interested in ...
