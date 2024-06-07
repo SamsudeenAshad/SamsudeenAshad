@@ -16,6 +16,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once sailed across the Pacific Ocean solo! But shhh, it's a secret 🤫.
 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=SimShad)](https://github.com/SimShad/github-profile-trophy)
+
 ## 🌟 About Me
 
 Welcome to my little corner of GitHub! 🚀 I'm all about turning caffeine into code ☕️, exploring the digital wilderness 🌍, and sprinkling a little bit of magic into my projects ✨.
