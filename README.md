@@ -50,11 +50,11 @@ Welcome to my little corner of GitHub! 🚀 I'm all about turning caffeine into 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SimShad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SimShad&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SimShad&" alt="SimShad" /></p>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=SimShad&theme=dark)](https://git.io/streak-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+ 
 </a>
 </p>
-
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=SimShad&theme=dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 <div align="center">
   <p>Thank you for joining the adventure! May your code be legendary and your quests epic! 🌟</p>
 </div>
