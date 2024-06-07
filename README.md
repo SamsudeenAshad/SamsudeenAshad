@@ -54,7 +54,7 @@ Welcome to my little corner of GitHub! 🚀 I'm all about turning caffeine into 
  
 </a>
 </p>
- <img align="center" src="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SimShad&theme=default)"/>
+ <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SimShad&theme=default"/>
 
 <div align="center">
   <p>Thank you for joining the adventure! May your code be legendary and your quests epic! 🌟</p>
