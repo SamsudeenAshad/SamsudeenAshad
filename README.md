@@ -50,7 +50,7 @@ Welcome to my little corner of GitHub! 🚀 I'm all about turning caffeine into 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SimShad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SimShad&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SimShad&" alt="SimShad" /></p>
- <img align="center" src=" http://github-profile-summary-cards.vercel.app/api/cards/profile-details?SimShad={SimShad}&theme={nord_dark}" alt="SimShad" /></p>
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?SimShad={SimShad}&theme={nord_dark}
  
 </a>
 </p>
