@@ -17,6 +17,7 @@
 - ⚡ Fun fact: I once sailed across the Pacific Ocean solo! But shhh, it's a secret 🤫.
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=SimShad)](https://github.com/SimShad/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=SimShad)](https://github.com/SimShad/github-profile-trophy)
 
 ## 🌟 About Me
 
