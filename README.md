@@ -2,6 +2,11 @@
 
 <div align="center">
   <h1>Welcome to SimShad's Code Quest! 🎮</h1>
+  
+  <div align="center">
+  <img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
+</div>
+
   <p>Join me on an epic adventure through the realms of code and creativity! Are you ready to embark on a journey of discovery?</p>
   <img src="https://raw.githubusercontent.com/SimShad/SimShad/main/assets/banner_game.gif" alt="Banner" width="100%">
   
