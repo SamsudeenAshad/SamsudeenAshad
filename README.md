@@ -53,8 +53,7 @@ Welcome to my little corner of GitHub! 🚀 I'm all about turning caffeine into 
  
 </a>
 </p>
- [![GitHub Streak](https://streak-stats.demolab.com/?user=SimShad&theme=dark)](https://git.io/streak-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+
 <div align="center">
   <p>Thank you for joining the adventure! May your code be legendary and your quests epic! 🌟</p>
 </div>
