@@ -47,6 +47,12 @@ Welcome to my little corner of GitHub! 🚀 I'm all about turning caffeine into 
 <a href="https://github.com/azizovrafael">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SimShad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SimShad&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SimShad&show_icons=true&locale=en&layout=compact" alt="wmapraveen" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SimShad&show_icons=true&locale=en" alt="wmapraveen" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SimShad&" alt="wmapraveen" /></p>
 </a>
 </p>
 
