@@ -1,14 +1,14 @@
 
 
 <div align="center">
-  <h1><a herf="https://simshad.github.io/SimShad/">Welcome to SimShad's Code Quest! 🎮</a></h1>
-  
+  <h1><a herf="https://samsudeenashad.github.io/SimShad/">Welcome to Samsudeen Ashad's Code Quest! 🎮</a></h1>
+
   <div align="center">
   <img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
 </div>
 
   <p>Join me on an epic adventure through the realms of code and creativity! Are you ready to embark on a journey of discovery?</p>
-  <img src="https://raw.githubusercontent.com/SimShad/SimShad/main/assets/banner_game.gif" alt="Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/samsudeenashad/samsudeenashad/main/assets/banner_game.gif" alt="Banner" width="100%">
 
 
   <img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
@@ -17,16 +17,16 @@
   <p align="center">Select your character and let the quest begin!</p>
 </div>
 
-- 👋 Hi, I’m @SimShad
+- 👋 Hi, I’m @Samsudeen Ashad
 - 👀 I’m interested in turning caffeine into code ☕️, exploring the digital wilderness 🌍, and sprinkling a little bit of magic into my projects ✨.
 - 🌱 I’m currently learning the ancient art of quantum computing and honing my skills in virtual reality development.
 - 💞️ I’m looking to collaborate on brewing innovative projects that could use a dash of your brilliance! Let's cook up something amazing together! 🍳
-- 📫 How to reach me: Drop me a message in a bottle 🍾 at simshad@example.com, or ride the cyber waves 🏄‍♂️ to [my LinkedIn](https://www.linkedin.com/in/simshad).
+- 📫 How to reach me: Drop me a message in a bottle 🍾 at simshad@example.com, or ride the cyber waves 🏄‍♂️ to [my LinkedIn](https://www.linkedin.com/in/samsudeenashad).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once sailed across the Pacific Ocean solo! But shhh, it's a secret 🤫.
 
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=SimShad)](https://github.com/SimShad/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=SamsudeenAshad)](https://github.com/SamsudeenAshad/github-profile-trophy)
 
 
  <div align="center">
@@ -45,7 +45,7 @@ Welcome to my little corner of GitHub! 🚀 I'm all about turning caffeine into 
 - I'm brewing up some innovative projects that could use a dash of your brilliance! Let's cook up something amazing together! 🍳
 
 #### 📫 Connect with Me:
-- Drop me a message in a bottle 🍾 at simshad@example.com, or ride the cyber waves 🏄‍♂️ to [my LinkedIn](https://www.linkedin.com/in/simshad).
+- Drop me a message in a bottle 🍾 at simshad@example.com, or ride the cyber waves 🏄‍♂️ to [my LinkedIn](https://www.linkedin.com/in/samsudeenashad).
 
 #### 😄 Fun Fact:
 - Fun fact about me? I once sailed across the Pacific Ocean solo! But shhh, it's a secret 🤫.
@@ -66,10 +66,10 @@ Welcome to my little corner of GitHub! 🚀 I'm all about turning caffeine into 
 
 <p align="center">
 <a href="https://github.com/azizovrafael">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SimShad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SimShad&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SimShad&" alt="SimShad" />
-   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SimShad&theme=default"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SamsudeenAshad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SamsudeenAshad&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SamsudeenAshad&" alt="SimShad" />
+   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamsudeenAshad&theme=default"/>
  
 </a>
 </p>
