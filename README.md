@@ -45,7 +45,7 @@ Welcome to my little corner of GitHub! 🚀 I'm all about turning caffeine into 
 - I'm brewing up some innovative projects that could use a dash of your brilliance! Let's cook up something amazing together! 🍳
 
 #### 📫 Connect with Me:
-- Drop me a message in a bottle 🍾 at simshad@example.com, or ride the cyber waves 🏄‍♂️ to [my LinkedIn](https://www.linkedin.com/in/samsudeenashad).
+- Drop me a message in a bottle 🍾 at samsudeenashad@iclould.com, or ride the cyber waves 🏄‍♂️ to [my LinkedIn](https://www.linkedin.com/in/samsudeen-ashad-90b281255/).
 
 #### 😄 Fun Fact:
 - Fun fact about me? I once sailed across the Pacific Ocean solo! But shhh, it's a secret 🤫.
