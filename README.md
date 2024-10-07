@@ -3,9 +3,7 @@
 <div align="center">
   <h1><a herf="https://samsudeenashad.github.io/SimShad/">Welcome to Samsudeen Ashad's Code Quest! 🎮</a></h1>
 
-  <div align="center">
-  <img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
-</div>
+ 
 
 <div align="center">
   <P>
