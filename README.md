@@ -25,22 +25,7 @@ I am eager to connect with like-minded individuals, learn, and explore the ever-
 
 ## 🌟 About Me
 
-Welcome to my little corner of GitHub! 🚀 I'm all about turning caffeine into code ☕️, exploring the digital wilderness 🌍, and sprinkling a little bit of magic into my projects ✨.
 
-#### 🌱 Currently Sprouting:
-- Growing my coding garden with seeds of quantum computing.
-- Cultivating my skills in virtual reality development.
-
-#### 💼 Seeking Collaborators:
-- I'm brewing up some innovative projects that could use a dash of your brilliance! Let's cook up something amazing together! 🍳
-
-#### 📫 Connect with Me:
-- Drop me a message in a bottle 🍾 at samsudeenashad@iclould.com, or ride the cyber waves 🏄‍♂️ to [my LinkedIn](https://www.linkedin.com/in/samsudeen-ashad-90b281255/).
-
-#### 😄 Fun Fact:
-- Fun fact about me? I once sailed across the Pacific Ocean solo! But shhh, it's a secret 🤫.
-
-## 🎨 Bonus Level & Easter Eggs
 
 <p align="justify">Unlock hidden achievements and discover secret codes scattered throughout the quest. Can you find them all?</p>
 
