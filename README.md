@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <h1><a herf="https://samsudeenashad.github.io/SimShad/">Welcome to Samsudeen Ashad's Code Quest! 🎮</a></h1>
+  <h1><a herf="https://samsudeenashad.github.io/SimShad/">Welcome to Samsudeen Ashad's GitHub Profile! 🎮</a></h1>
 
  
 
