@@ -15,9 +15,9 @@ I am particularly enthusiastic about Data Science and Machine Learning, constant
 
 I am eager to connect with like-minded individuals, learn, and explore the ever-evolving world of technology. Let's connect and innovate together!
 </p>
-
+ <div align="center">
  [![trophy](https://github-profile-trophy.vercel.app/?username=SamsudeenAshad)](https://github.com/SamsudeenAshad/github-profile-trophy)
-
+ </div>
 
  <div align="center">
   <img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
