@@ -25,6 +25,7 @@ I am eager to connect with like-minded individuals, learn, and explore the ever-
 --->
 
 ---
+<div align="center">
 
 ## 🌟 About Me
 
@@ -39,7 +40,7 @@ I am eager to connect with like-minded individuals, learn, and explore the ever-
   <img src="https://github.com/SamsudeenAshad/SamsudeenAshad/Potion.jpg" alt="rainbow hr" width="100%" height="70%">
 </div>
 --->
-
+</div>
 ---
 <div align="center">
 
