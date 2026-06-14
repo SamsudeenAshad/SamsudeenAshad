@@ -2,7 +2,7 @@
 
 # 🌟 Welcome to Samsudeen Ashad's GitHub Profile! 🚀
 
-### <div align="center">I'm a passionate Software Engineering undergraduate, enthusiastic about Data Science, Machine Learning, and Full-Stack Development.</div>
+### <div align="center">I'm a passionate Software Engineering, enthusiastic about Data Science, Machine Learning, and Full-Stack Development.</div>
 
 <br/>
 
