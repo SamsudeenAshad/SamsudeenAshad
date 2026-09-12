@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Undergraduate Student** pursuing a degree in Software Engineering.
+- 🎓 **AI Engineer** pursuing a degree in Software Engineering.
 - 💡 **Passionate** about coding, data science, and discovering new technologies.
 - 🤝 **Team Player** thriving in collaborative environments with a focus on problem-solving and multitasking.
 - 🔍 **Specialties:** Full-Stack Development, Data Science, and Machine Learning.
