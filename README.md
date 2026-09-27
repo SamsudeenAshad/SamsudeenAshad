@@ -23,6 +23,13 @@
 
 <br/>
 
+<!-- Profile Views -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=SamsudeenAshad&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
+
+<br/>
+
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
