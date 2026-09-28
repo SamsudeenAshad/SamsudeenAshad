@@ -32,25 +32,74 @@
 
 ## 🛠️ Tech Stack & Tools
 
+
 <div align="center">
+
+  <!-- Languages -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,py,r,js,ts,dart,php&theme=light" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,py,r,js,ts,dart,php,bash&theme=light" />
   </a>
+
   <br/>
   <br/>
+
+  <!-- Frontend -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,vue,flutter&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,vue,flutter,threejs,laravel&theme=light" />
   </a>
+
   <br/>
   <br/>
+
+  <!-- Backend & Databases -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,dotnet,mysql,postgres,sqlite,firebase&theme=light" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,dotnet,mysql,postgres,sqlite,mongodb,redis,firebase&theme=light" />
   </a>
+
   <br/>
   <br/>
+
+  <!-- AI / Data -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,ps,pr,xd&theme=light" />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,huggingface&theme=light" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Langfuse-000000?style=for-the-badge"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Graph%20RAG-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-4B5563?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector%20Search-7C3AED?style=for-the-badge"/>
+
+</div>  </a>
+
+  <br/>
+  <br/>
+
+  <!-- DevOps / Cloud -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,azure,githubactions,linux,nginx&theme=light" />
   </a>
+
+  <br/>
+  <br/>
+
+  <!-- Tools -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman,figma,ps,pr,xd,vscode,idea,pycharm&theme=light" />
+  </a>
+
 </div>
 
 <br/>
@@ -71,7 +120,7 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/samsudeenashad"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://samsudeenashad.github.io/SimShad/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"></a>
+  <a href="https://samsudeenashad.github.io/samsudeenashad/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"></a>
 </div>
 
 <br/>
